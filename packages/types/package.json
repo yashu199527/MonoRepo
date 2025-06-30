@@ -7,7 +7,7 @@
   "scripts": {
     "build": "tsc",
     "dev": "tsc -w",
-    "lint": "eslint . --max-warnings"
+    "lint": "eslint ."
   },
   "exports": {
     ".": {
